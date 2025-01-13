@@ -30,3 +30,7 @@ The OpenNI2 SDK exposes its functionality through a core C API and also provides
 
 - Languages:  C++11, Java, Android。
 - Platforms: Windows, Linux, Android, more info: Installation -> System Requirements.
+
+
+## Doc
+For more documentation, please refer to [this path](https://github.com/orbbec/openniSDK/tree/main/Doc)
